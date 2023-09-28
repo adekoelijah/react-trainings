@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/react-trainings/static/css/main.5986a394.css",
+    "main.js": "/react-trainings/static/js/main.b686705a.js",
+    "static/media/header_bg_3.jpeg": "/react-trainings/static/media/header_bg_3.20aac8db63049715cbd1.jpeg",
+    "static/media/main_header.png": "/react-trainings/static/media/main_header.cfdd71eb8ee4127d40dd.png",
+    "static/media/about2.jpeg": "/react-trainings/static/media/about2.2c97a145dfdda53737eb.jpeg",
+    "static/media/gallery7.jpeg": "/react-trainings/static/media/gallery7.1631333a1ec83df5f5a1.jpeg",
+    "static/media/header_bg_1.jpeg": "/react-trainings/static/media/header_bg_1.c365d542fbad9bf595e8.jpeg",
+    "static/media/gallery9.jpeg": "/react-trainings/static/media/gallery9.445823b6fc75f999e69a.jpeg",
+    "static/media/gallery14.jpeg": "/react-trainings/static/media/gallery14.eddd0f564e10614a1533.jpeg",
+    "static/media/trainer4.jpeg": "/react-trainings/static/media/trainer4.c0c84054934730eb658a.jpeg",
+    "static/media/header_bg_2.jpeg": "/react-trainings/static/media/header_bg_2.551d4751efb168f17938.jpeg",
+    "static/media/gallery10.jpeg": "/react-trainings/static/media/gallery10.7fb954c664586b32bc9d.jpeg",
+    "static/media/gallery3.jpeg": "/react-trainings/static/media/gallery3.839569cb8b57c9680687.jpeg",
+    "static/media/gallery2.jpeg": "/react-trainings/static/media/gallery2.695e89145caea177dfe1.jpeg",
+    "static/media/trainer3.jpeg": "/react-trainings/static/media/trainer3.e530422b62105640fc6d.jpeg",
+    "static/media/values.jpeg": "/react-trainings/static/media/values.3e8ffba748edd5f87110.jpeg",
+    "static/media/about1.jpeg": "/react-trainings/static/media/about1.acf197b2b5fd7c2a452c.jpeg",
+    "static/media/gallery1.jpeg": "/react-trainings/static/media/gallery1.e179c6f2b614bef50dab.jpeg",
+    "static/media/gallery8.jpeg": "/react-trainings/static/media/gallery8.876905deddf1de94db55.jpeg",
+    "static/media/gallery15.jpeg": "/react-trainings/static/media/gallery15.b0b6d8a3d5eda0f3c72d.jpeg",
+    "static/media/gallery12.jpeg": "/react-trainings/static/media/gallery12.3a836a40842d84e5a829.jpeg",
+    "static/media/trainer1.jpeg": "/react-trainings/static/media/trainer1.6e000edfecf48b446bcd.jpeg",
+    "static/media/gallery11.jpeg": "/react-trainings/static/media/gallery11.82f3bb9b8ccfefc7b200.jpeg",
+    "static/media/gallery5.jpeg": "/react-trainings/static/media/gallery5.18d8f7dce3878f28c0a4.jpeg",
+    "static/media/header_bg_4.jpeg": "/react-trainings/static/media/header_bg_4.24af76293b5cb0c35e3b.jpeg",
+    "static/media/gallery13.jpeg": "/react-trainings/static/media/gallery13.8a812c16e8159cb75529.jpeg",
+    "static/media/gallery6.jpeg": "/react-trainings/static/media/gallery6.1110d4860ff60d014419.jpeg",
+    "static/media/trainer5.jpeg": "/react-trainings/static/media/trainer5.6a8eee1279ea02be53c7.jpeg",
+    "static/media/gallery4.jpeg": "/react-trainings/static/media/gallery4.c38d9069611449d661ee.jpeg",
+    "static/media/trainer2.jpeg": "/react-trainings/static/media/trainer2.50ed6b0e7304a28d987d.jpeg",
+    "static/media/trainer6.jpeg": "/react-trainings/static/media/trainer6.d060ff98bdc67ac8ddf3.jpeg",
+    "static/media/avatar5.jpeg": "/react-trainings/static/media/avatar5.d25e9a28e32aa5201afa.jpeg",
+    "index.html": "/react-trainings/index.html",
+    "main.5986a394.css.map": "/react-trainings/static/css/main.5986a394.css.map",
+    "main.b686705a.js.map": "/react-trainings/static/js/main.b686705a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5986a394.css",
+    "static/js/main.b686705a.js"
+  ]
+}
