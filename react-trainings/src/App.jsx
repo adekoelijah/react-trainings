@@ -9,6 +9,7 @@ import Plans from './pages/plans/Plans'
 import Trainers from './pages/trainers/Trainers'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+// import Nav from './components/Nav'
 
 
 const App = () => {
@@ -25,6 +26,7 @@ const App = () => {
       <Route path='*' element ={<NotFound/>}/>
       <Route path='plans' element ={<Plans/>}/>
     </Routes>
+   {/*  <Nav/> */}
     <Footer/>
     </BrowserRouter> 
   )

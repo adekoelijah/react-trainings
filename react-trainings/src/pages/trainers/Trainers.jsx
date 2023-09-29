@@ -13,8 +13,12 @@ const Trainers = () => {
   return (
     <>
     <Header title="Trainers" image={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur deleniti vitae quasi, 
-      tempora aut architecto magni reiciendis delectus sapiente rem.
+    My training philosophy is rooted in the understanding that fitness is a 
+    highly individualized journey. I believe in crafting personalized training
+     plans that cater to your unique goals, abilities, and lifestyle.
+      Whether you're aiming to lose weight, build strength, increase 
+      flexibility, or simply adopt a healthier lifestyle, 
+    I am here to provide guidance and support every step of the way.
     </Header>
     <section className="trainers">
       <div className="container trainers__container">

@@ -11,8 +11,11 @@ const Contact = () => {
   return (
     <>
     <Header title="Get in Touch" image ={HeaderImage}>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-      Doloremque fugit repellat ullam animi earum illo quam impedit, libero possimus fuga!
+    We're excited to connect with you and help you embark on your fitness journey. 
+    Whether you have questions, want to schedule a consultation,
+     or are ready to take the first step towards a healthier, more vibrant you, 
+     we're here to assist you.
+     Feel free to reach out to us through any of the following methods:
     </Header>
     <section className='contact'>
       <div className="container contact__container">

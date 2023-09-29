@@ -9,8 +9,7 @@ const Plans = () => {
   return (
     <>
     <Header title="Plans" image ={HeaderImage}>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-      Sequi delectus doloribus veritatis alias officia. Tempora.
+    Explore our diverse range of training plans, each designed to address specific fitness objectives:
     </Header>
     <section className="plans">
       <div className="container plans__container">

@@ -18,9 +18,12 @@ const Gallery = () => {
   return (
     <>
     <Header title="Gallery" image ={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-      Dicta at optio voluptas voluptate odio quod mollitia corporis totam, 
-      laudantium non adipisci, a unde error ducimus maxime, ex necessitatibus quo? Debitis!
+    Welcome to our Gallery of Success, a visual testament to the incredible transformations that
+     our clients have achieved through dedication, hard work, 
+     and the guidance of our expert trainers. Each image captured here represents not just a physical 
+     change but also a journey of empowerment, health, and well-being.
+
+
     </Header>
     <section className="gallery">
       <div className="container gallery__container">

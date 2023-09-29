@@ -20,13 +20,13 @@ const Navbar = () => {
             <img src={logo} alt="nav logo" className='logo' />
             </Link>
 
-            <ul className={'nav__link ${isNavShowing ? `show__nav` : `hide__nav`'}
+            <ul className={`nav__link ${isNavShowing ? `show__nav` : 'hide__nav'}`}
 >
                 {
                     links.map(({name, path}, index ) =>{
                         return(
                             <li key={index}>
-                                <NavLink to ={path} className={({isActive}) => isActive ? `active-nav` : ``} onClick={() => setIsNavShowing (prev => !prev)}>{name}</NavLink>
+                                <NavLink to ={path} className={({isActive}) => isActive ? 'active-nav' : ''} onClick={() => setIsNavShowing (prev => !prev)}>{name}</NavLink>
                             </li>
                         )
                     })
